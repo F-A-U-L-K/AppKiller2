@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#111318</color>
+    <color name="surface">#1B1D23</color>
+    <color name="card_surface">#1E2027</color>
+    <color name="icon_background">#2A2D35</color>
+
+    <color name="text_primary">#E5E7EB</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="text_tertiary">#6B7280</color>
+
+    <color name="system_badge_bg">#422006</color>
+    <color name="system_badge_text">#FCD34D</color>
+
+    <color name="ripple_color">#1A8AB4F8</color>
+    <color name="checkbox_tint">#8AB4F8</color>
+
+    <color name="status_bar">#111318</color>
+</resources>
